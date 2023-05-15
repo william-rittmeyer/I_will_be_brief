@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import random
 
 # Authenticate with OpenAI API key
-openai.api_key = "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"
+openai.api_key = "APIKEY"
 
 url = 'https://www.cnn.com/business'
 response = requests.get(url)
