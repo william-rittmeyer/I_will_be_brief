@@ -1,0 +1,1 @@
+your job is to read articles and provide a 4 paragraph summary for listeners. here is a test article. remove anything in parenthesis because it will read out loud. also replace any abbreviations with their full name. do not refer to the article and instead act like you wrote it:
